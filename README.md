@@ -1,2 +1,2 @@
 # Mod-For-Mindustry
-This is a module of the pixel factory.
+This is a module of the Mindustry
