@@ -1,2 +1,2 @@
-# Mod-For-Mindustry
-This is a module of the Mindustry
+# Coming to Industry
+This is a mod of the Mindustry
